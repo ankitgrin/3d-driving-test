@@ -1,15 +1,6 @@
 5675
-89E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\display\GaussianBlurNode.js133552604703676956 0
-87E:\Code\3d-driving-test\node_modules\three\src\math\interpolants\DiscreteInterpolant.js133552604698080318 0
-69E:\Code\3d-driving-test\node_modules\@parcel\packager-js\package.json133552604663449154 0
-66E:\Code\3d-driving-test\node_modules\@parcel\utils\src\throttle.js133552604681063056 0
-72E:\Code\3d-driving-test\node_modules\@parcel\workers\src\web\WebChild.js133552604672918992 0
-113E:\Code\3d-driving-test\node_modules\three\src\renderers\shaders\ShaderChunk\premultiplied_alpha_fragment.glsl.js133552604718891843 0
-55E:\Code\3d-driving-test\node_modules\globals\index.d.ts133552604647296101 0
-55E:\Code\3d-driving-test\node_modules\yuka\build\yuka.js133552608572000679 0
-46E:\Code\3d-driving-test\static\sounds\q3a2.mp3133258222357234253 0
-39E:\Code\3d-driving-test\dist\index.html133553351360282938 0
-77E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\websockets.js133552604719048071 0
+46E:\Code\3d-driving-test\dist\index.64a4978e.js133553524482981528 0
+84E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\display\BumpMapNode.js133552604690287416 0
 58E:\Code\3d-driving-test\node_modules\@swc\helpers\_\_using133552604701215445 1
 66E:\Code\3d-driving-test\node_modules\lightningcss\node\ast.js.flow133552604655435896 0
 84E:\Code\3d-driving-test\node_modules\three\src\renderers\webgl\WebGLBindingStates.js133552604729799885 0
@@ -64,7 +55,7 @@
 33E:\Code\3d-driving-test\.parcelrc133552596274515214 0
 50E:\Code\3d-driving-test\static\symbols\correct.png133120667941386578 0
 77E:\Code\3d-driving-test\node_modules\@parcel\reporter-cli\src\bundleReport.js133552604636238856 0
-28E:\Code\3d-driving-test\dist133553351360512328 1
+28E:\Code\3d-driving-test\dist133553524483569928 1
 67E:\Code\3d-driving-test\node_modules\svgo\plugins\removeComments.js133552604672918992 0
 60E:\Code\3d-driving-test\node_modules\semver\functions\gte.js133552604657729640 0
 46E:\Code\3d-driving-test\static\sounds\q1a1.mp3133254746806050706 0
@@ -106,8 +97,8 @@
 57E:\Code\3d-driving-test\node_modules\msgpackr-extract\bin133552604640437327 1
 104E:\Code\3d-driving-test\node_modules\three\src\renderers\shaders\ShaderChunk\aomap_pars_fragment.glsl.js133552604679893707 0
 45E:\Code\3d-driving-test\node_modules\posthtml133552604645124296 1
-33E:\Code\3d-driving-test\README.md133553328756343317 0
 87E:\Code\3d-driving-test\node_modules\@swc\helpers\cjs\_define_enumerable_properties.cjs133552604672606539 0
+33E:\Code\3d-driving-test\README.md133553328756343317 0
 75E:\Code\3d-driving-test\node_modules\css-tree\lib\syntax\node\Combinator.js133552604660610475 0
 85E:\Code\3d-driving-test\node_modules\@swc\helpers\_\_object_spread_props\package.json133552604699173854 0
 27E:\Code\3d-driving-test\src133552600123070986 1
@@ -210,6 +201,15 @@
 68E:\Code\3d-driving-test\node_modules\caniuse-lite\data\regions\VE.js133552604718108444 0
 70E:\Code\3d-driving-test\node_modules\weak-lru-cache\tests\benchmark.js133552604636551375 0
 46E:\Code\3d-driving-test\static\sounds\q3a1.mp3133258222938388285 0
+89E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\display\GaussianBlurNode.js133552604703676956 0
+87E:\Code\3d-driving-test\node_modules\three\src\math\interpolants\DiscreteInterpolant.js133552604698080318 0
+69E:\Code\3d-driving-test\node_modules\@parcel\packager-js\package.json133552604663449154 0
+66E:\Code\3d-driving-test\node_modules\@parcel\utils\src\throttle.js133552604681063056 0
+72E:\Code\3d-driving-test\node_modules\@parcel\workers\src\web\WebChild.js133552604672918992 0
+113E:\Code\3d-driving-test\node_modules\three\src\renderers\shaders\ShaderChunk\premultiplied_alpha_fragment.glsl.js133552604718891843 0
+55E:\Code\3d-driving-test\node_modules\globals\index.d.ts133552604647296101 0
+55E:\Code\3d-driving-test\node_modules\yuka\build\yuka.js133552608572000679 0
+46E:\Code\3d-driving-test\static\sounds\q3a2.mp3133258222357234253 0
 62E:\Code\3d-driving-test\node_modules\three\src\objects\Bone.js133552604687437893 0
 31E:\Code\3d-driving-test\src\css133552600210679581 1
 85E:\Code\3d-driving-test\node_modules\entities\lib\generated\decode-data-html.d.ts.map133552604658617641 0
@@ -217,7 +217,6 @@
 104E:\Code\3d-driving-test\node_modules\three\src\renderers\shaders\ShaderChunk\colorspace_fragment.glsl.js133552604693346686 0
 96E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\functions\material\getRoughness.js133552604703989399 0
 44E:\Code\3d-driving-test\static\sounds\q4.mp3133258791546126055 0
-45E:\Code\3d-driving-test\node_modules\boolbase133552604637003957 1
 80E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\readonly-attr.js133552604712820461 0
 83E:\Code\3d-driving-test\node_modules\three\examples\jsm\interactive\SelectionBox.js133552604720960554 0
 77E:\Code\3d-driving-test\node_modules\dom-serializer\node_modules\entities\lib133552604661285359 1
@@ -294,7 +293,7 @@
 63E:\Code\3d-driving-test\node_modules\utility-types\package.json133552604647937649 0
 97E:\Code\3d-driving-test\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json133552604694284005 0
 80E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\functions\material133552604703989399 1
-41E:\Code\3d-driving-test\src\js\scripts.js133552596274942533 0
+41E:\Code\3d-driving-test\src\js\scripts.js133553524464679777 0
 81E:\Code\3d-driving-test\node_modules\@swc\helpers\_\_read_only_error\package.json133552604699762377 0
 63E:\Code\3d-driving-test\node_modules\@trysound\sax\package.json133552604639297936 0
 84E:\Code\3d-driving-test\node_modules\@parcel\transformer-image\src\validateConfig.js133552604649148494 0
@@ -342,6 +341,7 @@
 48E:\Code\3d-driving-test\node_modules\ansi-styles133552604642025665 1
 43E:\Code\3d-driving-test\node_modules\base-x133552604639969920 1
 71E:\Code\3d-driving-test\node_modules\electron-to-chromium\versions.json133552604657191595 0
+45E:\Code\3d-driving-test\node_modules\boolbase133552604637003957 1
 71E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\zstd.js133552604719672928 0
 60E:\Code\3d-driving-test\node_modules\semver\functions\inc.js133552604660339177 0
 78E:\Code\3d-driving-test\node_modules\three\examples\jsm\effects\AsciiEffect.js133552604682619995 0
@@ -599,14 +599,14 @@
 80E:\Code\3d-driving-test\node_modules\three\examples\jsm\webxr\OculusHandModel.js133552604717182974 0
 64E:\Code\3d-driving-test\node_modules\css-tree\lib\common\List.js133552604681567294 0
 46E:\Code\3d-driving-test\node_modules\nth-check133552604662521271 1
+80E:\Code\3d-driving-test\node_modules\three\src\textures\CompressedCubeTexture.js133552604693659122 0
+69E:\Code\3d-driving-test\node_modules\three\src\objects\SkinnedMesh.js133552604721758797 0
 67E:\Code\3d-driving-test\node_modules\@parcel\utils\src\TapStream.js133552604680740565 0
 74E:\Code\3d-driving-test\node_modules\@swc\helpers\cjs\_define_property.cjs133552604672918992 0
 90E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\display\ViewportDepthNode.js133552604725932244 0
 76E:\Code\3d-driving-test\node_modules\@parcel\utils\src\relativeBundlePath.js133552604678772547 0
 84E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\accessors\ModelNode.js133552604714653299 0
 47E:\Code\3d-driving-test\node_modules\nullthrows133552604645124296 1
-69E:\Code\3d-driving-test\node_modules\three\src\objects\SkinnedMesh.js133552604721758797 0
-80E:\Code\3d-driving-test\node_modules\three\src\textures\CompressedCubeTexture.js133552604693659122 0
 62E:\Code\3d-driving-test\node_modules\gsap\src\ScrollTrigger.js133552608449397863 0
 94E:\Code\3d-driving-test\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest2.c133552604679241245 0
 51E:\Code\3d-driving-test\node_modules\ordered-binary133552604657347899 1
@@ -2082,9 +2082,9 @@
 85E:\Code\3d-driving-test\node_modules\three\examples\jsm\renderers\common\Animation.js133552604677439038 0
 90E:\Code\3d-driving-test\node_modules\three\examples\jsm\renderers\common\StorageTexture.js133552604722684199 0
 82E:\Code\3d-driving-test\node_modules\three\examples\jsm\renderers\common\Buffer.js133552604689463048 0
-87E:\Code\3d-driving-test\node_modules\three\examples\jsm\renderers\common\BufferUtils.js133552604690167906 0
 63E:\Code\3d-driving-test\node_modules\@parcel\cache\lib\types.js133552604657191595 0
 83E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\geometry\RangeNode.js133552604719360505 0
+87E:\Code\3d-driving-test\node_modules\three\examples\jsm\renderers\common\BufferUtils.js133552604690167906 0
 58E:\Code\3d-driving-test\node_modules\posthtml\node_modules133552604591238087 1
 70E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\av1.js133552604674773011 0
 86E:\Code\3d-driving-test\node_modules\three\examples\jsm\renderers\common\Geometries.js133552604703833181 0
@@ -2277,14 +2277,12 @@
 81E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\fog\FogRangeNode.js133552604703208305 0
 88E:\Code\3d-driving-test\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133552604664611584 0
 87E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\display\AnamorphicNode.js133552604677241378 0
-92E:\Code\3d-driving-test\node_modules\@swc\helpers\cjs\_class_static_private_field_update.cjs133552604669850510 0
-59E:\Code\3d-driving-test\node_modules\nth-check\package.json133552604651435268 0
 62E:\Code\3d-driving-test\node_modules\@parcel\reporter-cli\test133552604652765149 1
 53E:\Code\3d-driving-test\node_modules\json5\LICENSE.md133552604656914923 0
+92E:\Code\3d-driving-test\node_modules\@swc\helpers\cjs\_class_static_private_field_update.cjs133552604669850510 0
+59E:\Code\3d-driving-test\node_modules\nth-check\package.json133552604651435268 0
 86E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\display\BlendModeNode.js133552604686928537 0
 52E:\Code\3d-driving-test\node_modules\htmlparser2\lib133552604660520233 1
-46E:\Code\3d-driving-test\dist\index.64a4978e.js133553351360282938 0
-84E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\display\BumpMapNode.js133552604690287416 0
 92E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\display\ColorAdjustmentNode.js133552604693034241 0
 87E:\Code\3d-driving-test\node_modules\three\examples\jsm\nodes\display\ColorSpaceNode.js133552604693502907 0
 65E:\Code\3d-driving-test\node_modules\css-tree\dist\csstree.min.js133552604672397167 0
@@ -4584,8 +4582,6 @@
 72E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\touch.js133552604717182974 0
 79E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\transforms2d.js133552604717339170 0
 78E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\typedarrays.js133552604717952150 0
-67E:\Code\3d-driving-test\node_modules\@parcel\cache\lib\constants.js133552604636238856 0
-68E:\Code\3d-driving-test\node_modules\@swc\helpers\src\_construct.mjs133552604702895869 0
 70E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\u2f.js133552604717952150 0
 85E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\unhandledrejection.js133552604717952150 0
 82E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\urlsearchparams.js133552604718108444 0
@@ -4606,6 +4602,8 @@
 83E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\webkit-user-drag.js133552604718891843 0
 63E:\Code\3d-driving-test\node_modules\@parcel\utils\package.json133552604681723521 0
 73E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\webnfc.js133552604718891843 0
+39E:\Code\3d-driving-test\dist\index.html133553393992639665 0
+77E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\websockets.js133552604719048071 0
 86E:\Code\3d-driving-test\node_modules\@parcel\transformer-svg\test\parseFuncIRI.test.js133552604647722712 0
 73E:\Code\3d-driving-test\node_modules\caniuse-lite\data\features\webvtt.js133552604719360505 0
 50E:\Code\3d-driving-test\node_modules\@parcel\graph133552604664098657 1
@@ -4762,6 +4760,8 @@
 90E:\Code\3d-driving-test\node_modules\@swc\helpers\src\_class_private_field_destructure.mjs133552604702447456 0
 88E:\Code\3d-driving-test\node_modules\@swc\helpers\src\_class_private_field_loose_key.mjs133552604702583448 0
 84E:\Code\3d-driving-test\node_modules\@swc\helpers\src\_class_private_method_init.mjs133552604702739659 0
+67E:\Code\3d-driving-test\node_modules\@parcel\cache\lib\constants.js133552604636238856 0
+68E:\Code\3d-driving-test\node_modules\@swc\helpers\src\_construct.mjs133552604702895869 0
 71E:\Code\3d-driving-test\node_modules\@swc\helpers\src\_create_class.mjs133552604703052087 0
 91E:\Code\3d-driving-test\node_modules\@babel\highlight\node_modules\supports-color\readme.md133552604643120944 0
 67E:\Code\3d-driving-test\node_modules\@swc\helpers\src\_defaults.mjs133552604703208305 0
@@ -5655,6 +5655,8 @@
 50E:\Code\3d-driving-test\node_modules\.bin\svgo.ps1133552605058516764 0
 64E:\Code\3d-driving-test\node_modules\.bin\update-browserslist-db133552605058546694 0
 68E:\Code\3d-driving-test\node_modules\.bin\update-browserslist-db.cmd133552605058546694 0
+46E:\Code\3d-driving-test\dist\index.8f70873e.js133553350880161406 0
+50E:\Code\3d-driving-test\dist\index.8f70873e.js.map133553350880961554 0
 43E:\Code\3d-driving-test\dist\assets\symbols133553324179499390 1
 47E:\Code\3d-driving-test\dist\assets\terrain.glb133166335943677431 0
 55E:\Code\3d-driving-test\dist\assets\symbols\correct.png133120667941386578 0
@@ -5671,6 +5673,4 @@
 51E:\Code\3d-driving-test\dist\assets\sounds\q5a2.mp3133258796720076487 0
 51E:\Code\3d-driving-test\dist\assets\sounds\q7a1.mp3133258805340351998 0
 51E:\Code\3d-driving-test\dist\assets\sounds\q7a2.mp3133258805420769958 0
-46E:\Code\3d-driving-test\dist\index.8f70873e.js133553350880161406 0
-50E:\Code\3d-driving-test\dist\index.8f70873e.js.map133553350880961554 0
-50E:\Code\3d-driving-test\dist\index.64a4978e.js.map133553351360472461 0
+50E:\Code\3d-driving-test\dist\index.64a4978e.js.map133553524483330571 0

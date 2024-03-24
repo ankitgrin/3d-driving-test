@@ -1,0 +1,21 @@
+{
+  "name": "3d-driving-test",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel src/index.html --no-cache",
+    "build": "parcel build src/index.html --no-cache"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "three": "^0.161.0",
+    "yuka": "^0.7.8"
+  },
+  "devDependencies": {
+    "@parcel/config-default": "^2.10.3",
+    "parcel": "^2.10.0",
+    "parcel-reporter-static-files-copy": "^1.5.3"
+  },
+  "staticFiles": {
+    "staticOutPath": "assets"
+  }
+}
